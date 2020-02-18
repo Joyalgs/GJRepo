@@ -1,0 +1,7 @@
+{
+    "app":{
+        "env":"DEV",
+        "version":"1.0.1",
+        "url":"http://test.com/API/"
+    }
+}

@@ -39,7 +39,7 @@ export class ErrorHandlerService implements ErrorHandler {
       this.trace.errorType = ErrorType.Unknown
     }
 
-alert(JSON.stringify(this.trace));
+//alert(JSON.stringify(this.trace));
     //service call to post error trace
 
   }
